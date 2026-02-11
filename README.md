@@ -49,7 +49,7 @@ All of this is achieved **without relying on frameworks**.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/ZamanCodexpress/Expense-Tracker.git
    ```
 
    **OR** download the project as a `.zip` file and extract it.
